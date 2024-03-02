@@ -45,6 +45,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Rajnish9211/Rajnish9211/output/snake.svg" alt="Snake animation" />
+
 
 ###
