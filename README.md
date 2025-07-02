@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Rajnish Sharma and I'm a Full-Stack Web Developer.</h2>
+<h2 align="center">Hi 👋! My name is Rajnish Sharma </h2>
 
 ###
 
